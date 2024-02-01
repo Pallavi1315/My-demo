@@ -1,2 +1,0 @@
- git  is a version control tool.
- repository is a storage place where we can save files.
