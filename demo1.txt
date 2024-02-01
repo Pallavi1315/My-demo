@@ -1,0 +1,8 @@
+Things that i learned in edvops course
+aws
+git
+docker
+jenkins
+terraform
+kubernetes
+linux commands
